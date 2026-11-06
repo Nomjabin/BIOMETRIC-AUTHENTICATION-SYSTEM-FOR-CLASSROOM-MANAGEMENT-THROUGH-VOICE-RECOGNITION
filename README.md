@@ -1,0 +1,2 @@
+# BIOMETRIC-AUTHENTICATION-SYSTEM-FOR-CLASSROOM-MANAGEMENT-THROUGH-VOICE-RECOGNITION
+Secure authentication and access control are crucial aspects of modern classroom  management systems, ensuring the protection of sensitive educational resources and  preventing unauthorized access. Biometric  authentication systems, specifically based on voice recognition, offer a more robust and  user-friendly solution for classroom environments. 
